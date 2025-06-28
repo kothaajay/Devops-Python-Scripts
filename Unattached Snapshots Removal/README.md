@@ -1,4 +1,4 @@
-In this python script we will find unattached snapshots to ec2 instances and volumes and remove them.
+In this python script we will find unattached snapshots to ec2 instances, volumes and remove them.
 
 First we need to fetch all the instance ids, then we need to filter out snapshots and volume ids of instances.
 
